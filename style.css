@@ -10,8 +10,7 @@ body {
 }
 .container {
   max-width: 800px;
-  margin: auto;
-  padding: 20px;
+  padding: 0px;
   background-color: #f2e5f1;
 }
 header {
@@ -20,8 +19,8 @@ header {
   font-family: "Instrument Serif", serif;
 }
 header img {
-  width: 150px;
-  border-radius: 50%;
+  width: 700px;
+  border-radius: 0%;
 }
 h1 {
   margin: 10px 0 5px;
