@@ -1,22 +1,23 @@
 /* make comments within this syntax */
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Instrument Serif", serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
   background-color: #f9f9f9;
-  color: #333333;
+  color: #e540e0;
 }
 .container {
   max-width: 800px;
   margin: auto;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #f2e5f1;
 }
 header {
   text-align: center;
   padding-bottom: 20px;
+  font-family: "Bitcount Grid Double Ink";
 }
 header img {
   width: 150px;
@@ -26,9 +27,10 @@ h1 {
   margin: 10px 0 5px;
   text-align: center;
   margin-bottom: 30px;
+  font-family: ;
 }
 h2 {
-  color: #444444;
+  color: #e540e0;
   border-bottom: 1px solid #cccccc;
   padding-bottom: 5px;
   margin-top: 30px;
@@ -37,7 +39,7 @@ ul {
   padding-left: 20px;
 }
 a {
-  color: #0077cc;
+  color: #681f59;
   text-decoration: none;
 }
 a:hover {
@@ -97,7 +99,7 @@ a:hover {
 /* styling for header.html */
 .navbar {
   width: 100%;
-  background-color: #333333;
+  background-color: #f208e7;
   color: white;
   padding: 10px 10px;
 }
@@ -155,7 +157,7 @@ a:hover {
       margin-top: 1rem;
     }
     .nav-buttons button {
-      background-color: #333333;
+      background-color: #f3def0;
       color: white;
       border: none;
       padding: 0.75rem 1.5rem;
@@ -163,5 +165,5 @@ a:hover {
       cursor: pointer;
     }
     .nav-buttons button:hover {
-      background-color: #555555;
+      background-color: #f9eff7;
     }
